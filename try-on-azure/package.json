@@ -1,0 +1,12 @@
+{
+    "name": "try-on-azure",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/azure": "^5.26.1",
+        "@pulumi/azure-native": "^1.88.1",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}

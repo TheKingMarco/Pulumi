@@ -1,0 +1,11 @@
+encryptionsalt: v1:AhDlcQ5Rcy4=:v1:1hFRLkdqSXIfTlAl:tFiNpWtPHbFiP6qBkSCF/r6Vc2NHew==
+config:
+  azure:address_space:
+  - 10.0.0.0/16
+  azure:aks_dns_prefix: aks-private
+  azure:aks_subnet: 10.0.1.0/24
+  azure:client: acc
+  azure:enviroment: dev
+  azure:kubernetes_version: 1.24.6
+  azure:location: westus
+  azure:node_count: "1"
